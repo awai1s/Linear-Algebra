@@ -1,11 +1,3 @@
----
-noteId: "c5cf6000684c11ef848ad9615c46255c"
-tags: []
-
----
-
-
-
 # Pre-Algebra for Data Science - Part 1 
 
 
