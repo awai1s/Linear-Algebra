@@ -11,6 +11,6 @@
     13. Addition, Subtraction and Multiplication of Matrices  
     14. Determinant of Matrices   
     
-`Click on the link below to see the part 1 of Linear Algebra`    
+`Click on the link below to see the part 3 of Linear Algebra`    
 
 [Linear Algebra - Part 3/6](https://www.linkedin.com/feed/update/urn:li:activity:7241846683930644485?utm_source=share&utm_medium=member_desktop)
