@@ -13,4 +13,4 @@
     
 `Click on the link below to see the part 1 of Linear Algebra`    
 
-[Linear Algebra - Part 1/6](https://www.linkedin.com/feed/update/urn:li:activity:7241846683930644485?utm_source=share&utm_medium=member_desktop)
+[Linear Algebra - Part 3/6](https://www.linkedin.com/feed/update/urn:li:activity:7241846683930644485?utm_source=share&utm_medium=member_desktop)
